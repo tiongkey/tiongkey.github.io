@@ -9,7 +9,7 @@ permalink: /
 # Become an Internet Professional
 {: .fs-9 }
 
-Hey, I'm Gio 👋 I keep notes on how I've used the internet for learning, building a career in growth and product roles in tech, and making money through cryptocurrencies.
+Hey, I'm Gio 👋 I keep notes on things I find interesting: learning on the internet, building a career in growth & product, and investing in cryptocurrencies.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
