@@ -9,7 +9,7 @@ permalink: /
 # Become an Internet Professional
 {: .fs-9 }
 
-![profile picture](https://tiongkey.github.io/assets/images/gio-profile-pic.png)
+![profile picture](https://tiongkey.github.io/assets/images/gio-profile-pic.png =300x)
 
 Hey, I'm Gio 👋 I keep notes on things I find interesting: learning on the internet, building a career in growth & product, and investing in cryptocurrencies.
 {: .fs-6 .fw-300 }
