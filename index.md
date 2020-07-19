@@ -9,16 +9,19 @@ permalink: /
 # The Internet Strategy
 {: .fs-9 }
 
-Hey, I'm Gio 👋 Here are my notes on learning, pursuing a career & investing on the internet.
-
-Read my how-to guides by 
+Hey, I'm Gio 👋 I write about learning, pursuing a career & investing on the internet.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+**You're in my notes** -- a collection of how-to's covering learning techniques, working in Philippine tech (growth and product roles), investing in digital assets like bitcoin and other tech goodies.
+{: .fs-6 .fw-300 }
+
+Essays go to my blog.
+
+[What notes](#who-is-gio.fyi-for){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## Who is gio.fyi for?
 
 ### Dependencies
 
