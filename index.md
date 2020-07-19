@@ -6,10 +6,12 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Become an Internet Professional
+# The Internet Strategy
 {: .fs-9 }
 
-Hey, I'm Gio 👋 I keep notes on things I find interesting: learning on the internet, building a career in growth & product, and investing in cryptocurrencies.
+Hey, I'm Gio 👋 Here are my notes on learning, pursuing a career & investing on the internet.
+
+Read my how-to guides by 
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
