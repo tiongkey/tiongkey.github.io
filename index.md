@@ -9,16 +9,14 @@ permalink: /
 # The Internet Strategy
 {: .fs-9 }
 
-Hey, I'm Gio 👋 I write about learning, pursuing a career & investing on the internet.
+Hey, I'm Gio 👋 I write about learning, building a career & investing on the internet.
 {: .fs-6 .fw-300 }
 
-You're in my collection of notes about frameworks and tools I've picked up while working in tech and exploring the internet. Other stories and essays go to my blog.
-
-[Review notes](#who-is-gio.fyi-for){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Visit the blog](https://gio.fyi/blog){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Review the Notes](#who-is-gio.fyi-for){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Visit the blog](https://gio.fyi/blog){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Who is gio.fyi for?
+## Using the internet as leverage
 
 ### Dependencies
 
