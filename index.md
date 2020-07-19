@@ -13,7 +13,6 @@ Hey, I'm Gio 👋 I write about learning, pursuing a career & investing on the i
 {: .fs-6 .fw-300 }
 
 **You're in my notes** -- a collection of how-to's covering learning techniques, working in Philippine tech (growth and product roles), investing in digital assets like bitcoin and other tech goodies.
-{: .fs-6 .fw-300 }
 
 Essays go to my blog.
 
